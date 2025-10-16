@@ -1,0 +1,9 @@
+fastapi==0.104.1
+pydantic==2.5.0
+qdrant-client==1.7.0
+fastembed==0.1.1
+httpx==0.25.2
+uvicorn==0.24.0
+tiktoken==0.5.2
+langchain==0.0.350
+python-dotenv==1.0.0
