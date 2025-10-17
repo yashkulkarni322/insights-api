@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     EMBEDDING_URL: str = "http://192.168.1.11:8074/encode_text"
     
     # Token Limits
-    MAX_TOKENS_BEFORE_MAP_REDUCE: int = 100000
+    MAX_TOKENS_BEFORE_MAP_REDUCE: int = 120000
     MAX_TOKENS_PER_MAP_CHUNK: int = 50000
     
     # Logging
